@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: wiki
+  annotations:
+    github.com/project-slug: pgbezerra/wiki
+spec:
+  type: other
+  lifecycle: unknown
+  owner: slipway
